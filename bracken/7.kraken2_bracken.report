@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Babesia bigemina	5866	S	449	14	463	0.83725
+Hyalomma anatolicum	176092	S	16	14	30	0.05425
+Hyalomma rufipes	72862	S	14	11	25	0.04521
+Hyalomma marginatum	34627	S	12	7	19	0.03436
+Hyalomma asiaticum	266040	S	12	2	14	0.02532

@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Babesia bigemina	5866	S	457	36	493	0.75963
+Neospora caninum	29176	S	17	0	17	0.02619
+Actinoalloteichus sp. AHMU CJ021	2072503	S	52	63	115	0.17720
+Vibrio furnissii	29494	S	12	11	23	0.03544

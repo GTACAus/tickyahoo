@@ -1,0 +1,39 @@
+ 66.07	37	37	U	0	unclassified
+ 33.93	19	0	R	1	root
+ 33.93	19	0	R1	131567	  cellular organisms
+ 32.14	18	0	D	2759	    Eukaryota
+ 32.14	18	0	D1	33154	      Opisthokonta
+ 32.14	18	0	K	33208	        Metazoa
+ 32.14	18	0	K1	6072	          Eumetazoa
+ 32.14	18	0	K2	33213	            Bilateria
+ 32.14	18	0	K3	33317	              Protostomia
+ 32.14	18	0	K4	1206794	                Ecdysozoa
+ 32.14	18	0	K5	88770	                  Panarthropoda
+ 32.14	18	0	P	6656	                    Arthropoda
+ 32.14	18	0	P1	6843	                      Chelicerata
+ 32.14	18	0	C	6854	                        Arachnida
+ 32.14	18	0	C1	6933	                          Acari
+ 32.14	18	0	C2	6934	                            Parasitiformes
+ 32.14	18	0	O	6935	                              Ixodida
+ 32.14	18	0	O1	297308	                                Ixodoidea
+ 32.14	18	5	F	6939	                                  Ixodidae
+ 16.07	9	0	F1	426438	                                    Hyalomminae
+ 16.07	9	3	G	34625	                                      Hyalomma
+  5.36	3	3	S	34627	                                        Hyalomma marginatum
+  1.79	1	1	S	266040	                                        Hyalomma asiaticum
+  1.79	1	1	S	176092	                                        Hyalomma anatolicum
+  1.79	1	1	S	72862	                                        Hyalomma rufipes
+  3.57	2	1	F1	426437	                                    Rhipicephalinae
+  1.79	1	0	G	34619	                                      Dermacentor
+  1.79	1	1	S	57047	                                        Dermacentor reticulatus
+  3.57	2	0	F1	426442	                                    Ixodinae
+  3.57	2	2	G	6944	                                      Ixodes
+  1.79	1	0	D	2	    Bacteria
+  1.79	1	0	D1	1783272	      Terrabacteria group
+  1.79	1	0	P	1239	        Bacillota
+  1.79	1	0	C	91061	          Bacilli
+  1.79	1	0	O	1385	            Bacillales
+  1.79	1	0	F	186817	              Bacillaceae
+  1.79	1	0	G	1386	                Bacillus
+  1.79	1	0	G1	185979	                  unclassified Bacillus (in: firmicutes)
+  1.79	1	1	S	2709784	                    Bacillus sp. KH172YL63

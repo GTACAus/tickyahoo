@@ -1,0 +1,102 @@
+ 41.67	45	45	U	0	unclassified
+ 58.33	63	1	R	1	root
+ 57.41	62	0	R1	131567	  cellular organisms
+ 42.59	46	0	D	2	    Bacteria
+ 36.11	39	0	D1	1783272	      Terrabacteria group
+ 35.19	38	0	P	1239	        Bacillota
+ 28.70	31	0	C	186801	          Clostridia
+ 28.70	31	0	O	186802	            Eubacteriales
+ 28.70	31	0	F	31979	              Clostridiaceae
+ 28.70	31	3	G	1485	                Clostridium
+ 13.89	15	11	S	1491	                  Clostridium botulinum
+  1.85	2	0	S1	36826	                    Clostridium botulinum A
+  1.85	2	2	S2	498214	                      Clostridium botulinum A3 str. Loch Maree
+  0.93	1	0	S1	36827	                    Clostridium botulinum B
+  0.93	1	0	S2	591968	                      Clostridium botulinum B1
+  0.93	1	1	S3	498213	                        Clostridium botulinum B1 str. Okra
+  0.93	1	1	S1	1408283	                    Clostridium botulinum CDC_1436
+  7.41	8	8	S	1509	                  Clostridium sporogenes
+  1.85	2	0	G1	2614128	                  unclassified Clostridium
+  1.85	2	2	S	3070996	                    Clostridium sp. MB40-C1
+  1.85	2	2	S	36839	                  Clostridium felsineum
+  0.93	1	1	S	182773	                  Clostridium isatidis
+  6.48	7	0	C	91061	          Bacilli
+  6.48	7	0	O	1385	            Bacillales
+  6.48	7	0	F	186817	              Bacillaceae
+  6.48	7	0	G	1386	                Bacillus
+  1.85	2	2	S	561879	                  Bacillus safensis
+  1.85	2	2	S	1408	                  Bacillus pumilus
+  0.93	1	0	G1	86661	                  Bacillus cereus group
+  0.93	1	1	S	1405	                    Bacillus mycoides
+  0.93	1	0	G1	185979	                  unclassified Bacillus (in: firmicutes)
+  0.93	1	1	S	2954573	                    Bacillus sp. FSL M8-0049
+  0.93	1	1	S	1178537	                  Bacillus xiamenensis
+  0.93	1	0	P	201174	        Actinomycetota
+  0.93	1	0	C	1760	          Actinomycetes
+  0.93	1	0	O	85009	            Propionibacteriales
+  0.93	1	0	F	31957	              Propionibacteriaceae
+  0.93	1	0	G	1912216	                Cutibacterium
+  0.93	1	1	S	1747	                  Cutibacterium acnes
+  5.56	6	0	P	1224	      Pseudomonadota
+  5.56	6	0	C	1236	        Gammaproteobacteria
+  1.85	2	0	O	72274	          Pseudomonadales
+  1.85	2	0	F	135621	            Pseudomonadaceae
+  1.85	2	0	G	286	              Pseudomonas
+  1.85	2	0	G1	136845	                Pseudomonas putida group
+  1.85	2	0	S	303	                  Pseudomonas putida
+  1.85	2	2	S1	1196325	                    Pseudomonas putida DOT-T1E
+  1.85	2	0	O	91347	          Enterobacterales
+  1.85	2	1	F	543	            Enterobacteriaceae
+  0.93	1	0	G	590	              Salmonella
+  0.93	1	0	S	28901	                Salmonella enterica
+  0.93	1	0	S1	59201	                  Salmonella enterica subsp. enterica
+  0.93	1	1	S2	2564349	                    Salmonella enterica subsp. enterica serovar Dessau
+  1.85	2	0	O	135623	          Vibrionales
+  1.85	2	0	F	641	            Vibrionaceae
+  1.85	2	0	G	657	              Photobacterium
+  1.85	2	0	S	553611	                Photobacterium leiognathi
+  1.85	2	2	S1	48408	                  Photobacterium leiognathi subsp. mandapamensis
+  0.93	1	0	D1	1783270	      FCB group
+  0.93	1	0	D2	68336	        Bacteroidota/Chlorobiota group
+  0.93	1	0	P	976	          Bacteroidota
+  0.93	1	0	C	117747	            Sphingobacteriia
+  0.93	1	0	O	200666	              Sphingobacteriales
+  0.93	1	0	F	84566	                Sphingobacteriaceae
+  0.93	1	0	G	28453	                  Sphingobacterium
+  0.93	1	1	S	561061	                    Sphingobacterium psychroaquaticum
+ 14.81	16	0	D	2759	    Eukaryota
+ 13.89	15	0	D1	2698737	      Sar
+ 13.89	15	0	D2	33630	        Alveolata
+ 13.89	15	1	P	5794	          Apicomplexa
+  8.33	9	0	C	1280412	            Conoidasida
+  8.33	9	0	C1	5796	              Coccidia
+  8.33	9	0	O	75739	                Eucoccidiorida
+  8.33	9	0	O1	423054	                  Eimeriorina
+  8.33	9	0	F	5809	                    Sarcocystidae
+  5.56	6	0	G	5810	                      Toxoplasma
+  5.56	6	0	S	5811	                        Toxoplasma gondii
+  5.56	6	6	S1	508771	                          Toxoplasma gondii ME49
+  2.78	3	0	G	29175	                      Neospora
+  2.78	3	0	S	29176	                        Neospora caninum
+  2.78	3	3	S1	572307	                          Neospora caninum Liverpool
+  4.63	5	0	C	422676	            Aconoidasida
+  4.63	5	0	O	5819	              Haemosporida
+  4.63	5	0	F	1639119	                Plasmodiidae
+  4.63	5	0	G	5820	                  Plasmodium
+  4.63	5	0	G1	418103	                    Plasmodium (Plasmodium)
+  4.63	5	0	S	5850	                      Plasmodium knowlesi
+  4.63	5	5	S1	5851	                        Plasmodium knowlesi strain H
+  0.93	1	0	D1	33154	      Opisthokonta
+  0.93	1	0	K	4751	        Fungi
+  0.93	1	0	K1	451864	          Dikarya
+  0.93	1	0	P	4890	            Ascomycota
+  0.93	1	0	P1	716545	              saccharomyceta
+  0.93	1	0	P2	147538	                Pezizomycotina
+  0.93	1	0	P3	716546	                  leotiomyceta
+  0.93	1	0	P4	715989	                    sordariomyceta
+  0.93	1	0	C	147548	                      Leotiomycetes
+  0.93	1	0	O	5178	                        Helotiales
+  0.93	1	0	F	28983	                          Sclerotiniaceae
+  0.93	1	0	G	33196	                            Botrytis
+  0.93	1	0	S	40559	                              Botrytis cinerea
+  0.93	1	1	S1	332648	                                Botrytis cinerea B05.10

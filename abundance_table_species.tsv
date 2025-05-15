@@ -1,0 +1,30 @@
+tax	1	10	11	12	13	14	15	16	17	18	19	2	20	3	4	5	6	7	8	9	total
+Unclassified;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown	894.0	35671.0	3046.0	37.0	368.0	399.0	45.0	1360.0	2508.0	2758.0	6831.0	344.0	177.0	11662.0	6217.0	504.0	622.0	2286.0	17139.0	256.0	93124.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Piroplasmida;Babesiidae;Babesia;Babesia bigemina	0.0	14232.0	687.0	0.0	0.0	0.0	0.0	0.0	0.0	547.0	493.0	28.0	0.0	1515.0	167.0	0.0	0.0	463.0	325.0	0.0	18457.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Hyalomma;Hyalomma rufipes	0.0	32.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	53.0	537.0	0.0	25.0	51.0	0.0	698.0
+Bacteria;Bacillati;Actinomycetota;Actinomycetes;Pseudonocardiales;Pseudonocardiaceae;Actinoalloteichus;Actinoalloteichus sp. AHMU CJ021	0.0	0.0	50.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	115.0	0.0	0.0	386.0	0.0	0.0	0.0	0.0	36.0	0.0	587.0
+Bacteria;Bacillati;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus paralicheniformis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	353.0	0.0	0.0	0.0	0.0	353.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Hyalomma;Hyalomma anatolicum	0.0	39.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19.0	199.0	0.0	30.0	19.0	0.0	306.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Hyalomma;Hyalomma asiaticum	0.0	34.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.0	192.0	0.0	14.0	0.0	0.0	256.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Hyalomma;Hyalomma marginatum	0.0	50.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	164.0	0.0	19.0	17.0	0.0	250.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Conoidasida;Eucoccidiorida;Sarcocystidae;Toxoplasma;Toxoplasma gondii	0.0	16.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	94.0	0.0	0.0	0.0	0.0	0.0	73.0	39.0	0.0	0.0	24.0	246.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Amblyomma;Amblyomma dubitatum	0.0	18.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	123.0	0.0	0.0	0.0	0.0	141.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium vivax	0.0	23.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	43.0	0.0	0.0	0.0	0.0	0.0	23.0	19.0	0.0	0.0	17.0	125.0
+Bacteria;Pseudomonadati;Pseudomonadota;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio furnissii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	23.0	0.0	0.0	82.0	0.0	0.0	0.0	0.0	0.0	0.0	105.0
+Bacteria;Bacillati;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus	0.0	103.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	103.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Conoidasida;Eucoccidiorida;Sarcocystidae;Neospora;Neospora caninum	0.0	64.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	98.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium knowlesi	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	34.0	0.0	0.0	0.0	0.0	0.0	21.0	17.0	0.0	0.0	0.0	72.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Dermacentor;Dermacentor albipictus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	72.0	0.0	0.0	0.0	0.0	72.0
+Bacteria;Bacillati;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus agnetis	0.0	25.0	26.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	51.0
+Bacteria;Pseudomonadati;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	0.0	43.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	43.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Dermacentor;Dermacentor reticulatus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	35.0	0.0	0.0	0.0	0.0	35.0
+Bacteria;Bacillati;Actinomycetota;Actinomycetes;Mycobacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium urogenitale	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	30.0	0.0	0.0	0.0	0.0	0.0	30.0
+Bacteria;Pseudomonadati;Pseudomonadota;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Tolumonas;Tolumonas_uncultured	0.0	29.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	29.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Ixodes;Ixodes crenulatus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	26.0	0.0	0.0	0.0	0.0	26.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Hyalomma;Hyalomma scupense	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	25.0	0.0	0.0	0.0	0.0	25.0
+Bacteria;Bacillati;Bacillota;Clostridia;Eubacteriales;Clostridiaceae;Clostridium;Clostridium botulinum	0.0	0.0	0.0	0.0	0.0	0.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19.0
+Eukaryota;Eukaryota_Incertae_sedis;Apicomplexa;Aconoidasida;Haemosporida;Plasmodiidae;Plasmodium;Plasmodium gaboni	0.0	19.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	19.0
+Eukaryota;Fungi;Mucoromycota;Glomeromycetes;Glomerales;Glomeraceae;Rhizophagus;Rhizophagus irregularis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	17.0
+Bacteria;Bacillati;Bacillota;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus chromogenes	0.0	17.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.0
+Eukaryota;Metazoa;Arthropoda;Arachnida;Ixodida;Ixodidae;Amblyomma;Amblyomma boeroi	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	13.0	0.0	0.0	0.0	0.0	13.0
+Bacteria;Pseudomonadati;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia marmotae	0.0	11.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.0

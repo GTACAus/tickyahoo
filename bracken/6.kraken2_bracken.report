@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Plasmodium knowlesi	5850	S	16	1	17	0.22078
+Plasmodium vivax	5855	S	16	3	19	0.24675
+Toxoplasma gondii	5811	S	31	8	39	0.50649

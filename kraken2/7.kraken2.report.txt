@@ -1,0 +1,212 @@
+ 77.99	2286	2286	U	0	unclassified
+ 22.01	645	0	R	1	root
+ 22.01	645	12	R1	131567	  cellular organisms
+ 20.23	593	2	D	2759	    Eukaryota
+ 15.90	466	0	D1	2698737	      Sar
+ 15.90	466	0	D2	33630	        Alveolata
+ 15.90	466	2	P	5794	          Apicomplexa
+ 15.59	457	0	C	422676	            Aconoidasida
+ 15.32	449	0	O	5863	              Piroplasmida
+ 15.32	449	0	F	32594	                Babesiidae
+ 15.32	449	0	G	5864	                  Babesia
+ 15.32	449	449	S	5866	                    Babesia bigemina
+  0.27	8	0	O	5819	              Haemosporida
+  0.27	8	0	F	1639119	                Plasmodiidae
+  0.27	8	0	G	5820	                  Plasmodium
+  0.20	6	0	G1	418103	                    Plasmodium (Plasmodium)
+  0.20	6	0	S	5850	                      Plasmodium knowlesi
+  0.20	6	6	S1	5851	                        Plasmodium knowlesi strain H
+  0.07	2	0	G1	418107	                    Plasmodium (Laverania)
+  0.07	2	2	S	647221	                      Plasmodium gaboni
+  0.24	7	0	C	1280412	            Conoidasida
+  0.24	7	0	C1	5796	              Coccidia
+  0.24	7	0	O	75739	                Eucoccidiorida
+  0.24	7	0	O1	423054	                  Eimeriorina
+  0.24	7	0	F	5809	                    Sarcocystidae
+  0.14	4	0	G	29175	                      Neospora
+  0.14	4	0	S	29176	                        Neospora caninum
+  0.14	4	4	S1	572307	                          Neospora caninum Liverpool
+  0.10	3	0	G	5810	                      Toxoplasma
+  0.10	3	0	S	5811	                        Toxoplasma gondii
+  0.10	3	3	S1	508771	                          Toxoplasma gondii ME49
+  4.26	125	0	D1	33154	      Opisthokonta
+  3.96	116	0	K	33208	        Metazoa
+  3.96	116	0	K1	6072	          Eumetazoa
+  3.96	116	0	K2	33213	            Bilateria
+  3.96	116	0	K3	33317	              Protostomia
+  3.96	116	0	K4	1206794	                Ecdysozoa
+  3.96	116	0	K5	88770	                  Panarthropoda
+  3.96	116	0	P	6656	                    Arthropoda
+  3.96	116	0	P1	6843	                      Chelicerata
+  3.96	116	0	C	6854	                        Arachnida
+  3.96	116	0	C1	6933	                          Acari
+  3.96	116	0	C2	6934	                            Parasitiformes
+  3.96	116	0	O	6935	                              Ixodida
+  3.96	116	0	O1	297308	                                Ixodoidea
+  3.96	116	14	F	6939	                                  Ixodidae
+  2.56	75	0	F1	426438	                                    Hyalomminae
+  2.56	75	20	G	34625	                                      Hyalomma
+  0.55	16	16	S	176092	                                        Hyalomma anatolicum
+  0.48	14	14	S	72862	                                        Hyalomma rufipes
+  0.41	12	12	S	34627	                                        Hyalomma marginatum
+  0.41	12	12	S	266040	                                        Hyalomma asiaticum
+  0.03	1	1	S	1260755	                                        Hyalomma scupense
+  0.41	12	0	F1	426441	                                    Amblyomminae
+  0.41	12	1	G	6942	                                      Amblyomma
+  0.27	8	8	S	321419	                                        Amblyomma dubitatum
+  0.10	3	3	S	251381	                                        Amblyomma dissimile
+  0.38	11	3	F1	426437	                                    Rhipicephalinae
+  0.24	7	1	G	34619	                                      Dermacentor
+  0.14	4	4	S	57047	                                        Dermacentor reticulatus
+  0.07	2	2	S	60249	                                        Dermacentor albipictus
+  0.03	1	0	G	34630	                                      Rhipicephalus
+  0.03	1	0	G1	6940	                                        Boophilus
+  0.03	1	1	S	127004	                                          Rhipicephalus kohlsi
+  0.14	4	0	F1	426442	                                    Ixodinae
+  0.14	4	4	G	6944	                                      Ixodes
+  0.31	9	0	K	4751	        Fungi
+  0.31	9	3	K1	451864	          Dikarya
+  0.10	3	0	P	4890	            Ascomycota
+  0.10	3	0	P1	716545	              saccharomyceta
+  0.10	3	0	P2	147537	                Saccharomycotina
+  0.07	2	0	C	4891	                  Saccharomycetes
+  0.07	2	0	O	4892	                    Saccharomycetales
+  0.07	2	0	F	4893	                      Saccharomycetaceae
+  0.07	2	0	G	278028	                        Naumovozyma
+  0.07	2	0	S	27289	                          Naumovozyma dairenensis
+  0.07	2	2	S1	1071378	                            Naumovozyma dairenensis CBS 421
+  0.03	1	0	C	3239874	                  Pichiomycetes
+  0.03	1	0	O	2916678	                    Serinales
+  0.03	1	0	F	766764	                      Debaryomycetaceae
+  0.03	1	0	F1	1535325	                        Candida/Lodderomyces clade
+  0.03	1	0	G	36913	                          Lodderomyces
+  0.03	1	1	S	36914	                            Lodderomyces elongisporus
+  0.10	3	0	P	5204	            Basidiomycota
+  0.07	2	0	P1	452284	              Ustilaginomycotina
+  0.07	2	0	C	1538075	                Malasseziomycetes
+  0.07	2	0	O	162474	                  Malasseziales
+  0.07	2	0	F	742845	                    Malasseziaceae
+  0.07	2	0	G	55193	                      Malassezia
+  0.07	2	2	S	76775	                        Malassezia restricta
+  0.03	1	0	P1	5302	              Agaricomycotina
+  0.03	1	0	C	155616	                Tremellomycetes
+  0.03	1	0	O	5234	                  Tremellales
+  0.03	1	0	F	1884633	                    Cryptococcaceae
+  0.03	1	1	G	490731	                      Kwoniella
+  1.36	40	4	D	2	    Bacteria
+  0.68	20	0	D1	1783272	      Terrabacteria group
+  0.55	16	0	P	1239	        Bacillota
+  0.34	10	0	C	186801	          Clostridia
+  0.17	5	0	O	186802	            Eubacteriales
+  0.14	4	0	F	31979	              Clostridiaceae
+  0.10	3	1	G	1485	                Clostridium
+  0.03	1	0	G1	2614128	                  unclassified Clostridium
+  0.03	1	1	S	2212991	                    Clostridium sp. AWRP
+  0.03	1	1	S	1492	                  Clostridium butyricum
+  0.03	1	0	G	1266	                Sarcina
+  0.03	1	0	G1	2619470	                  unclassified Sarcina
+  0.03	1	1	S	2726954	                    Sarcina sp. JB2
+  0.03	1	0	F	216572	              Oscillospiraceae
+  0.03	1	0	G	35829	                Acetivibrio
+  0.03	1	0	S	288965	                  Acetivibrio clariflavus
+  0.03	1	1	S1	720554	                    Acetivibrio clariflavus DSM 19732
+  0.14	4	0	O	3082720	            Peptostreptococcales
+  0.14	4	0	F	186804	              Peptostreptococcaceae
+  0.10	3	0	G	1501226	                Romboutsia
+  0.03	1	1	S	1115758	                  Romboutsia ilealis
+  0.03	1	1	S	1507512	                  Romboutsia hominis
+  0.03	1	0	G1	2626894	                  unclassified Romboutsia
+  0.03	1	1	S	2708053	                    Romboutsia sp. 13368
+  0.03	1	0	G	1849822	                Paraclostridium
+  0.03	1	1	S	1505	                  Paraclostridium sordellii
+  0.03	1	0	O	3085636	            Lachnospirales
+  0.03	1	0	F	186803	              Lachnospiraceae
+  0.03	1	0	G	2719231	                Lacrimispora
+  0.03	1	1	S	29375	                  Lacrimispora xylanolytica
+  0.20	6	0	C	91061	          Bacilli
+  0.17	5	0	O	1385	            Bacillales
+  0.10	3	0	F	186817	              Bacillaceae
+  0.03	1	1	G	1386	                Bacillus
+  0.03	1	0	G	182709	                Oceanobacillus
+  0.03	1	1	S	2052660	                  Oceanobacillus zhaokaii
+  0.03	1	0	G	2837511	                Sutcliffiella
+  0.03	1	1	S	79883	                  Sutcliffiella horikoshii
+  0.07	2	0	F	90964	              Staphylococcaceae
+  0.07	2	0	G	1279	                Staphylococcus
+  0.07	2	2	S	1280	                  Staphylococcus aureus
+  0.03	1	0	O	186826	            Lactobacillales
+  0.03	1	0	F	81852	              Enterococcaceae
+  0.03	1	0	G	1350	                Enterococcus
+  0.03	1	1	S	33945	                  Enterococcus avium
+  0.07	2	0	D2	1798711	        Cyanobacteriota/Melainabacteria group
+  0.07	2	0	P	1117	          Cyanobacteriota
+  0.07	2	0	C	3028117	            Cyanophyceae
+  0.07	2	0	O	1890424	              Synechococcales
+  0.07	2	0	F	2881426	                Prochlorococcaceae
+  0.07	2	0	G	1218	                  Prochlorococcus
+  0.07	2	0	G1	2627481	                    unclassified Prochlorococcus
+  0.07	2	2	S	1799667	                      Prochlorococcus sp. MIT 1306
+  0.03	1	0	P	201174	        Actinomycetota
+  0.03	1	0	C	1760	          Actinomycetes
+  0.03	1	0	O	85006	            Micrococcales
+  0.03	1	0	F	85021	              Intrasporangiaceae
+  0.03	1	0	G	1849973	                Oryzobacter
+  0.03	1	0	G1	2628089	                  unclassified Oryzobacter
+  0.03	1	1	S	3149179	                    Oryzobacter sp. 24SJ04S-52
+  0.03	1	0	P	544448	        Mycoplasmatota
+  0.03	1	0	C	31969	          Mollicutes
+  0.03	1	0	O	186328	            Entomoplasmatales
+  0.03	1	0	F	2131	              Spiroplasmataceae
+  0.03	1	0	G	2132	                Spiroplasma
+  0.03	1	0	S	2136	                  Spiroplasma monobiae
+  0.03	1	1	S1	1336748	                    Spiroplasma monobiae MQ-1
+  0.27	8	0	P	1224	      Pseudomonadota
+  0.24	7	0	C	1236	        Gammaproteobacteria
+  0.07	2	0	O	72274	          Pseudomonadales
+  0.07	2	0	F	135621	            Pseudomonadaceae
+  0.07	2	1	G	286	              Pseudomonas
+  0.03	1	1	S	515393	                Pseudomonas yamanorum
+  0.07	2	0	O	2887326	          Moraxellales
+  0.07	2	0	F	468	            Moraxellaceae
+  0.07	2	1	G	469	              Acinetobacter
+  0.03	1	1	S	1324350	                Acinetobacter equi
+  0.07	2	0	O	135622	          Alteromonadales
+  0.07	2	0	F	72275	            Alteromonadaceae
+  0.03	1	0	G	1621534	              Paraglaciecola
+  0.03	1	1	S	197222	                Paraglaciecola mesophila
+  0.03	1	0	F1	2903219	              Alteromonas/Salinimonas group
+  0.03	1	1	G	226	                Alteromonas
+  0.03	1	0	O	91347	          Enterobacterales
+  0.03	1	0	F	543	            Enterobacteriaceae
+  0.03	1	0	G	561	              Escherichia
+  0.03	1	1	S	1499973	                Escherichia marmotae
+  0.03	1	0	C	28216	        Betaproteobacteria
+  0.03	1	0	O	80840	          Burkholderiales
+  0.03	1	0	F	506	            Alcaligenaceae
+  0.03	1	0	G	222	              Achromobacter
+  0.03	1	1	S	217203	                Achromobacter spanius
+  0.20	6	0	D1	1783270	      FCB group
+  0.20	6	0	D2	68336	        Bacteroidota/Chlorobiota group
+  0.20	6	0	P	976	          Bacteroidota
+  0.17	5	0	C	117743	            Flavobacteriia
+  0.17	5	0	O	200644	              Flavobacteriales
+  0.17	5	0	F	49546	                Flavobacteriaceae
+  0.10	3	0	G	237	                  Flavobacterium
+  0.07	2	2	S	871694	                    Flavobacterium ginsengisoli
+  0.03	1	0	G1	196869	                    unclassified Flavobacterium
+  0.03	1	1	S	2977321	                      Flavobacterium sp. TR2
+  0.07	2	0	G	104264	                  Cellulophaga
+  0.07	2	2	G1	2634405	                    unclassified Cellulophaga
+  0.03	1	0	C	768503	            Cytophagia
+  0.03	1	0	O	768507	              Cytophagales
+  0.03	1	0	F	200667	                Flammeovirgaceae
+  0.03	1	1	G	59739	                  Flammeovirga
+  0.07	2	0	P	29547	      Campylobacterota
+  0.07	2	0	C	3031852	        Epsilonproteobacteria
+  0.07	2	0	O	213849	          Campylobacterales
+  0.03	1	0	F	72293	            Helicobacteraceae
+  0.03	1	0	G	209	              Helicobacter
+  0.03	1	1	S	222136	                Helicobacter enhydrae
+  0.03	1	0	F	72294	            Campylobacteraceae
+  0.03	1	0	G	194	              Campylobacter
+  0.03	1	1	S	201	                Campylobacter lari

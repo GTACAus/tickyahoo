@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Babesia bigemina	5866	S	153	14	167	0.58188
+Hyalomma rufipes	72862	S	38	15	53	0.18467
+Hyalomma asiaticum	266040	S	15	1	16	0.05575
+Hyalomma anatolicum	176092	S	14	5	19	0.06620
+Corynebacterium urogenitale	2487892	S	16	14	30	0.10453

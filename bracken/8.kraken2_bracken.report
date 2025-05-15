@@ -1,0 +1,8 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Babesia bigemina	5866	S	302	23	325	0.66872
+Neospora caninum	29176	S	17	0	17	0.03498
+Hyalomma rufipes	72862	S	36	15	51	0.10494
+Hyalomma marginatum	34627	S	13	4	17	0.03498
+Hyalomma anatolicum	176092	S	11	8	19	0.03909
+Rhizophagus irregularis	588596	S	17	0	17	0.03498
+Actinoalloteichus sp. AHMU CJ021	2072503	S	18	18	36	0.07407

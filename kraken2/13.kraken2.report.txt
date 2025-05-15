@@ -1,0 +1,111 @@
+ 80.17	368	368	U	0	unclassified
+ 19.83	91	0	R	1	root
+ 19.83	91	1	R1	131567	  cellular organisms
+ 17.65	81	1	D	2759	    Eukaryota
+ 11.76	54	0	D1	33154	      Opisthokonta
+ 11.76	54	0	K	33208	        Metazoa
+ 11.76	54	0	K1	6072	          Eumetazoa
+ 11.76	54	0	K2	33213	            Bilateria
+ 11.76	54	0	K3	33317	              Protostomia
+ 11.76	54	0	K4	1206794	                Ecdysozoa
+ 11.76	54	0	K5	88770	                  Panarthropoda
+ 11.76	54	0	P	6656	                    Arthropoda
+ 11.76	54	0	P1	6843	                      Chelicerata
+ 11.76	54	0	C	6854	                        Arachnida
+ 11.76	54	0	C1	6933	                          Acari
+ 11.76	54	0	C2	6934	                            Parasitiformes
+ 11.76	54	0	O	6935	                              Ixodida
+ 11.76	54	1	O1	297308	                                Ixodoidea
+ 11.55	53	4	F	6939	                                  Ixodidae
+  7.19	33	0	F1	426438	                                    Hyalomminae
+  7.19	33	10	G	34625	                                      Hyalomma
+  1.53	7	7	S	266040	                                        Hyalomma asiaticum
+  1.09	5	5	S	34627	                                        Hyalomma marginatum
+  1.09	5	5	S	176092	                                        Hyalomma anatolicum
+  0.65	3	3	S	72862	                                        Hyalomma rufipes
+  0.44	2	2	S	1260755	                                        Hyalomma scupense
+  0.22	1	0	S	572043	                                        Hyalomma detritum
+  0.22	1	1	S1	1678626	                                          Hyalomma detritum detritum
+  1.53	7	3	F1	426437	                                    Rhipicephalinae
+  0.87	4	0	G	34619	                                      Dermacentor
+  0.44	2	2	S	57047	                                        Dermacentor reticulatus
+  0.44	2	2	S	60249	                                        Dermacentor albipictus
+  1.53	7	0	F1	426441	                                    Amblyomminae
+  1.53	7	2	G	6942	                                      Amblyomma
+  0.87	4	4	S	321419	                                        Amblyomma dubitatum
+  0.22	1	1	S	208206	                                        Amblyomma ovale
+  0.44	2	0	F1	426442	                                    Ixodinae
+  0.44	2	1	G	6944	                                      Ixodes
+  0.22	1	1	S	262304	                                        Ixodes hirsti
+  5.66	26	0	D1	2698737	      Sar
+  5.66	26	0	D2	33630	        Alveolata
+  5.66	26	1	P	5794	          Apicomplexa
+  3.49	16	0	C	422676	            Aconoidasida
+  2.18	10	0	O	5819	              Haemosporida
+  2.18	10	0	F	1639119	                Plasmodiidae
+  2.18	10	0	G	5820	                  Plasmodium
+  2.18	10	0	G1	418103	                    Plasmodium (Plasmodium)
+  1.31	6	6	S	5855	                      Plasmodium vivax
+  0.87	4	0	S	5850	                      Plasmodium knowlesi
+  0.87	4	4	S1	5851	                        Plasmodium knowlesi strain H
+  1.31	6	0	O	5863	              Piroplasmida
+  1.31	6	0	F	32594	                Babesiidae
+  1.31	6	0	G	5864	                  Babesia
+  1.31	6	6	S	5866	                    Babesia bigemina
+  1.96	9	0	C	1280412	            Conoidasida
+  1.96	9	0	C1	5796	              Coccidia
+  1.96	9	0	O	75739	                Eucoccidiorida
+  1.96	9	0	O1	423054	                  Eimeriorina
+  1.96	9	1	F	5809	                    Sarcocystidae
+  1.74	8	0	G	5810	                      Toxoplasma
+  1.74	8	0	S	5811	                        Toxoplasma gondii
+  1.74	8	8	S1	508771	                          Toxoplasma gondii ME49
+  1.96	9	0	D	2	    Bacteria
+  1.09	5	1	P	1224	      Pseudomonadota
+  0.65	3	0	C	1236	        Gammaproteobacteria
+  0.22	1	0	O	72274	          Pseudomonadales
+  0.22	1	0	F	135621	            Pseudomonadaceae
+  0.22	1	0	G	286	              Pseudomonas
+  0.22	1	0	G1	136845	                Pseudomonas putida group
+  0.22	1	0	S	303	                  Pseudomonas putida
+  0.22	1	1	S1	1196325	                    Pseudomonas putida DOT-T1E
+  0.22	1	0	O	135623	          Vibrionales
+  0.22	1	0	F	641	            Vibrionaceae
+  0.22	1	0	G	657	              Photobacterium
+  0.22	1	0	S	553611	                Photobacterium leiognathi
+  0.22	1	1	S1	48408	                  Photobacterium leiognathi subsp. mandapamensis
+  0.22	1	0	O	135625	          Pasteurellales
+  0.22	1	0	F	712	            Pasteurellaceae
+  0.22	1	0	G	75984	              Mannheimia
+  0.22	1	0	G1	2645054	                unclassified Mannheimia
+  0.22	1	1	S	1432056	                  Mannheimia sp. USDA-ARS-USMARC-1261
+  0.22	1	0	C	28211	        Alphaproteobacteria
+  0.22	1	0	O	204457	          Sphingomonadales
+  0.22	1	0	F	41297	            Sphingomonadaceae
+  0.22	1	0	G	13687	              Sphingomonas
+  0.22	1	1	S	1176646	                Sphingomonas daechungensis
+  0.65	3	0	D1	1783272	      Terrabacteria group
+  0.65	3	0	P	201174	        Actinomycetota
+  0.65	3	0	C	1760	          Actinomycetes
+  0.22	1	0	O	85007	            Mycobacteriales
+  0.22	1	0	F	1653	              Corynebacteriaceae
+  0.22	1	0	G	1716	                Corynebacterium
+  0.22	1	1	S	598660	                  Corynebacterium pyruviciproducens
+  0.22	1	0	O	85008	            Micromonosporales
+  0.22	1	0	F	28056	              Micromonosporaceae
+  0.22	1	0	G	1873	                Micromonospora
+  0.22	1	1	S	709883	                  Micromonospora zamorensis
+  0.22	1	0	O	85010	            Pseudonocardiales
+  0.22	1	0	F	2070	              Pseudonocardiaceae
+  0.22	1	0	G	65496	                Actinoalloteichus
+  0.22	1	0	G1	2644606	                  unclassified Actinoalloteichus
+  0.22	1	1	S	2072503	                    Actinoalloteichus sp. AHMU CJ021
+  0.22	1	0	D1	1783270	      FCB group
+  0.22	1	0	D2	68336	        Bacteroidota/Chlorobiota group
+  0.22	1	0	P	976	          Bacteroidota
+  0.22	1	0	C	117743	            Flavobacteriia
+  0.22	1	0	O	200644	              Flavobacteriales
+  0.22	1	0	F	49546	                Flavobacteriaceae
+  0.22	1	0	G	104264	                  Cellulophaga
+  0.22	1	0	G1	2634405	                    unclassified Cellulophaga
+  0.22	1	1	S	1942464	                      Cellulophaga sp. HaHaR_3_176
